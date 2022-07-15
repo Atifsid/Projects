@@ -1,4 +1,4 @@
-# projects
+# Projects
 Some basic apps which were made for learning and understanding purpose.
 
 1. Affirmation: Application of RecyclerView.
