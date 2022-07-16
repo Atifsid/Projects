@@ -1,18 +1,19 @@
 # Projects
 Some basic apps which were made for learning and understanding purpose.
 
-1. Affirmation: Application of RecyclerView.
+1. Affirmation: This app was made to understand and implement RecyclerView.
 2. DiceRoller: Simple DiceRoller app with cool drawables.
-3. Hey: Intent implementation App
-4. MemeShare: Application of API.
-4. TipTime: Application of Material Design.
+3. Hey: This app was made to understand how to use Intent in Android.
+4. MemeShare: Basic  implementation to understand Volley networking library and Glide image loader library in android.
+4. TipTime: This app was made to explore material design and themes in android.
 
 ## Screenshots
 
 <table>
   <tr>
      <td align="center">Affirmation</td>
-     <td colspan="2" align="center">DiceRoller</td>
+     <td align="center">DiceRoller Start</td>
+     <td align="center">DiceRoller</td>
 
   </tr>
   <tr>
@@ -33,7 +34,9 @@ Some basic apps which were made for learning and understanding purpose.
   </tr>
   
   <tr>
-    <td colspan="3" align="center">Hey</td>
+    <td align="center">Hey Start</td>
+    <td align="center">Hey Sara</td>
+    <td align="center">Hey Joe</td>
   </tr>
   
   <tr>
